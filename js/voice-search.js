@@ -1,4 +1,4 @@
-
+//Cambios hechos en el repositorio creado por dalto solo comentario
 const voiceSearch = document.querySelector(".voice-search");
 let microAceptado = false;
 
